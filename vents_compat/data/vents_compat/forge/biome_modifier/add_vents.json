@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#minecraft:is_overworld",
+    "features": ["vents_compat:bauxite_vent", "vents_compat:potassic_vent", "vents_compat:aquatic_bauxite_vent", "vents_compat:aquatic_potassic_vent"],
+    "step": "vegetal_decoration"
+}
